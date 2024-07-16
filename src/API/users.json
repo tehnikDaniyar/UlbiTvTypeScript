@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"username": "Bret",
+		"email": "Sincere@april.biz",
+		"address": {
+			"street": "Kulas Light",
+			"city": "Gwenborough",
+			"zipcode": "92998-3874"
+		}
+	},
+	{
+		"id": 2,
+		"username": "Antonette",
+		"email": "Shanna@melissa.tv",
+		"address": {
+			"street": "Victor Plains",
+			"city": "Wisokyburgh",
+			"zipcode": "90566-7771"
+		}
+	}
+]
