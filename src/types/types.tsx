@@ -1,7 +1,7 @@
 export interface IAdress {
 	street: string;
 	city: string;
-	zipcode: number;
+	zipcode: string;
 }
 
 
@@ -9,5 +9,6 @@ export interface IUser {
 	id: number;
 	username: string;
 	email: String;
-	adress: IAdress
+	address: IAdress
 }
+
