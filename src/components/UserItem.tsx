@@ -3,6 +3,7 @@ import { IUser } from "../types/types"
 
 interface UserItemProps {
 	user: IUser
+	key: number
 }
 
 

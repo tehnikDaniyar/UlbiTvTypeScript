@@ -12,3 +12,10 @@ export interface IUser {
 	address: IAdress
 }
 
+export interface ITodos {
+	UserId: number;
+	id: number;
+	title: string;
+	completed: boolean;
+}
+
