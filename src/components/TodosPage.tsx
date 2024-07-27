@@ -23,4 +23,6 @@ const TodosPage: FC = () => {
 	return (
 		<List items={todos} renderItem={(todo) => <TodoItem todo={todo} key={todo.id}></TodoItem>}></List>
 	)
-}
+};
+
+export default TodosPage

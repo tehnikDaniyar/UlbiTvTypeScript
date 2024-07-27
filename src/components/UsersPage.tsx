@@ -28,4 +28,6 @@ const UserPage: FC = () => {
 		<List items={users} renderItem={(user) => <UserItem user={user} key={user.id}></UserItem>}></List>
 
 	)
-}
+};
+
+export default UserPage
